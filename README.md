@@ -1,3 +1,3 @@
 # Dinner Invitation Webpage
 
-This webpage is an invitation for dinner.
+This webpage is a responsive invitation for dinner.
