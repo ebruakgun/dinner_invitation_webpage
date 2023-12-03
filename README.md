@@ -1,1 +1,3 @@
-# dinner_invitation_webpage
+# Dinner Invitation Webpage
+
+This webpage is an invitation for dinner.
